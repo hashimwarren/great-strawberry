@@ -8,3 +8,4 @@ content_img_path: ''
 excerpt: ''
 
 ---
+This is my fight song!
